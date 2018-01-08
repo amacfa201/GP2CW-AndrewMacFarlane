@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\andrew\desktop\gp2 cw\lab1\lab1\gamescript.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  createMesh.cpp
+c:\users\andrew\desktop\gp2 cw\lab1\lab1\createmesh.cpp(64): warning C4930: 'sphereCollider sphereCollider(void)': prototyped function not called (was a variable definition intended?)
+  GameScript.cpp
+c:\users\andrew\desktop\gp2 cw\lab1\lab1\gamescript.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Lab1.vcxproj -> C:\Users\Andrew\Desktop\GP2 CW\Lab1\Debug\Lab1.exe
